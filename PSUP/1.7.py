@@ -1,0 +1,5 @@
+print("Hello!")
+print("My name is Alex.")
+print("City: New York")
+print("My favourite subject is Computer Science.")
+print("I love it because it lets me solve real-world problems with code.")
